@@ -4,9 +4,13 @@ Curated list of resources for Homebridge setup
 ### Apple TV
 - [DACP](https://github.com/grover/homebridge-dacp/)
 
+### Audit/Speakers
+
 ### Lights
 
 ### Switches
+
+### Sensors
 
 ### Configuration Editors
 
