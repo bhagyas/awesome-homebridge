@@ -1,6 +1,9 @@
 # awesome-homebridge
 Curated list of resources for Homebridge setup
 
+### General Plugin Search
+- https://www.npmjs.com/search?q=homebridge-plugin
+
 ### Apple TV
 - [DACP](https://github.com/grover/homebridge-dacp/)
 
